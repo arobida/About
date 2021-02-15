@@ -1,8 +1,10 @@
 ## Hi 👋 I'm Andrew
 
+> Just a Coder for fun!
+
 <img src='./images/profile.png' alt='profile photo' height='100px' width='100px' style="border-radius:100%;" />
 
-> A little info on me...
+> A little info on me ℹ
 
 - 🔭 I’m currently working on: [Web Sage](https://web-sage.com)
 - 🌱 I’m currently learning: [Flutter](https://flutter.dev)
