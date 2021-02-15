@@ -1,6 +1,6 @@
 ## Hi 👋 I'm Andrew
 
-A little info on me...
+> A little info on me...
 
 - 🔭 I’m currently working on: [Web Sage](https://web-sage.com)
 - 🌱 I’m currently learning: [Flutter](https://flutter.dev)
