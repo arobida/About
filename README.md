@@ -1,5 +1,7 @@
 ## Hi 👋 I'm Andrew
 
+<img src='./images/profile.png' alt='profile photo' height='100px' width='100px' style="border-radius:100%;" />
+
 > A little info on me...
 
 - 🔭 I’m currently working on: [Web Sage](https://web-sage.com)
@@ -9,4 +11,3 @@
 - 💬 Ask me about: React, Gatsby, Nextjs, framer-motion
 - 📫 Best way to reach me: [Twitter](https://twitter.com/theafr86)
 - ⚡ Fun fact: consciousness is a state of action
-
