@@ -1,9 +1,6 @@
-### Hi 👋 I'm Andrew
+## Hi 👋 I'm Andrew
 
-<!--
-**arobida/arobida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-> A little info on me...
+A little info on me...
 
 - 🔭 I’m currently working on: [Web Sage](https://web-sage.com)
 - 🌱 I’m currently learning: [Flutter](https://flutter.dev)
