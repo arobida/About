@@ -14,6 +14,6 @@
 
 ### 👊 Just a `Coder` for fun!
 
-<img src='./images/hacking.gif' alt='profile photo' height='100px' width='200px' style="border-radius:10%;transform:translateX(0px);" />
+<img src='./images/hacking.gif' alt='profile photo' height='120px' width='200px' style="border-radius:10px;transform:translateX(0px);" />
 
 I build websites with react and really only that(what can I say I know a great tool when I see one). I will use anything to build though if its better and helps me get the job done faster! I really want to get into the deep end of writing software though and for me that means get a cs degree for the math mainly but also because I want to know the fundamentals down to the bits and bytes of it all.
