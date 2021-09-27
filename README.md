@@ -4,11 +4,20 @@
 
 > A little info on me ℹ
 
-🔭 I’m currently working on: <div style="display:flex;align-items:center;"><img src='./images/wslogo.png' alt='profile photo' height='20px' width='20px' style="border-radius:100%;transform:translateY(4px);transition:infinite 2s;" /><p>[Web Sage ](https://web-sage.com)</p></div><br/>
-🌱 I’m currently learning: [Svelte](https://svelte.dev), [Flutter](https://flutter.dev)<br/>
-📫 Best way to reach me: [Twitter](https://twitter.com/theafr86)<br/>
-💬 Ask me about: react, gatsby, nextjs, framer-motion<br/>
-⚡ Fun fact: consciousness is a state of action<br/>
+<div>
+<p>🔭 Currently working on:
+<img src='./images/wslogo.png' alt='profile photo' height='20px' width='20px' style="display:inline; transform:translateY(5px);"/>
+<a href="https://web-sage.com" target="_blank" rel="noopener noreferrer">Web Sage</a>
+</p>
+</div>
+
+🌱 Currently learning: [Svelte](https://svelte.dev), [Flutter](https://flutter.dev)
+
+📫 Best way to reach me: [Twitter](https://twitter.com/theafr86)
+
+💬 Ask me about: react, gatsby, nextjs, framer-motion
+
+⚡ Fun fact: consciousness is a state of action
 
 <hr style="background-color:#0070f3;border-radius:10px;"/>
 
