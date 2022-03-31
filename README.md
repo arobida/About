@@ -15,7 +15,7 @@
 
 📫 Best way to reach me: [Twitter](https://twitter.com/theafr86)
 
-💬 Ask me about: react, gatsby, nextjs, framer-motion
+💬 Ask me about: svelte, react, sveltekit, gatsby, nextjs, framer-motion
 
 ⚡ Fun fact: consciousness is a state of action
 
