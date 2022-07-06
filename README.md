@@ -14,7 +14,7 @@
 
 `🌱 Currently learning:` [Svelte](https://svelte.dev), [Flutter](https://flutter.dev)
 
-`📫 Best way to reach me:` [Twitter](https://twitter.com/theafr86)
+`📫 Best way to reach me:` [My Site](https://www.andrewrobida.com), [Twitter](https://twitter.com/theafr86)
 
 `💬 Ask me about:` svelte, react, sveltekit, gatsby, nextjs, framer-motion
 
