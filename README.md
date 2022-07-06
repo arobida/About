@@ -4,12 +4,10 @@
 
 > A little info on me ℹ
 
-<div>
-<p>🔭 Currently working on:
-<img src='./images/wslogo.png' alt='profile photo' height='20px' width='20px' style="display:inline; transform:translateY(5px);"/>
-<a href="https://web-sage.com" target="_blank" rel="noopener noreferrer">Web Sage</a>
+<p>
+🌐
+<a href="https://www.andrewrobida.com" target="_blank" rel="noopener noreferrer">www.andrewrobida.com</a>
 </p>
-</div>
 
 🌱 Currently learning: [Svelte](https://svelte.dev), [Flutter](https://flutter.dev)
 
@@ -19,7 +17,7 @@
 
 ⚡ Fun fact: consciousness is a state of action
 
-<hr style="background-color:#0070f3;border-radius:10px;"/>
+<hr style="background-color:#ffc600;border-radius:10px;"/>
 
 ### 👊 Just a `Coder` for fun!
 
